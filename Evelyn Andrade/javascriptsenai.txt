@@ -1,0 +1,9 @@
+&& = and
+|| = or
+
+default é como se fosse o else
+
+setTimeout simula um atraso
+
+.then = resolve
+.catch = reject
